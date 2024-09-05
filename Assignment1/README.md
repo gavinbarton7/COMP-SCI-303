@@ -1,1 +1,1 @@
-
+This program reads 100 integer values from the file "A1input.txt" into an array, and allows you to modify the array by adding, removing, or replacing values in it, and it also allows you to find out whether a specific integer value is in the array by searching through the array and providing you with the index that the integer is located with.
