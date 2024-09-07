@@ -99,8 +99,15 @@ Note: You might have to scroll up to see the values at the beginning of your arr
 
 Example output:
 
+![image](https://github.com/user-attachments/assets/e735b536-0d14-48ba-8183-bbbe0a74697e)
 
+![image](https://github.com/user-attachments/assets/db17c72b-6cd3-41b5-a241-36080520eb5e)
 
+![image](https://github.com/user-attachments/assets/7e56d301-9da1-453b-a793-687f9124e318)
+
+### Exiting the program
+
+Once you are finished, enter the value of 6 in the main menu to exit the program.
 
 
 
