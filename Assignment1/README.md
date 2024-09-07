@@ -65,4 +65,9 @@ However, if you do not enter a valid index, the program will output an error mes
 
 ### Function 3: Add a value to the end of the array.
 
+After you select this function in the main menu, this prompt will pop up:
+
+![image](https://github.com/user-attachments/assets/e8a3f048-aac4-4280-b6e1-a4d2f81a4cf2)
+
+
 
