@@ -31,7 +31,7 @@ You will continue to receive the same prompt infinitely until you enter a value 
 
 ### Function 1: Check to see if the array contains a specific value
 
-
+![image](https://github.com/user-attachments/assets/e5e60019-a8a3-428c-932c-ec4c7d29a839)
 
 
 
