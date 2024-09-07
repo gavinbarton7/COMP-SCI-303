@@ -6,7 +6,8 @@ This program reads 100 integer values from the file "A1input.txt" into an array,
 
 Warning: Whenever this program asks you for input, only input integer values. If you input anything besides an integer value at any point in this program, you will get an error message, and you will have to restart from the beginning at the program's main menu. 
 
-![image](https://github.com/user-attachments/assets/943a4474-e842-4c95-be80-2d39ae01bee7)
+![image](https://github.com/user-attachments/assets/2f9baa27-b709-47ef-a42f-8bc275518134)
+
 
 The three lines between the "Enter a choice 1-6: one" and "Press Enter to Continue" are the error messages. Although this screenshot depicts the error message being displayed after the user enters their choice in the main menu, you will get the same exact three-line error message any time you enter a letter, word, or non-numerical value when asked for input in this program.
 
@@ -27,6 +28,10 @@ You must then enter a value between 1 and 6 into the next prompt, otherwise, thi
 ![image](https://github.com/user-attachments/assets/6fe912c4-e0fd-4dbd-8784-a68c3336fcbd)
 
 You will continue to receive the same prompt infinitely until you enter a value that is between 1 and 6.
+
+### Function 1: Check to see if the array contains a specific value
+
+
 
 
 
