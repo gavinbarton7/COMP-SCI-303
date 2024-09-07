@@ -31,7 +31,7 @@ You will continue to receive the same prompt infinitely until you enter a value 
 
 ### Function 1: Check to see if the array contains a specific value
 
-After you select the function in the main menu, this prompt will pop up:
+After you select this function in the main menu, this prompt will pop up:
 
 ![image](https://github.com/user-attachments/assets/2846acbd-276b-4e72-b252-9e61246650b8)
 
@@ -42,3 +42,15 @@ You must then enter an integer value into the prompt. If the integer you enter i
 If the integer you enter is not in the array, you will get an output telling you so, such as this:
 
 ![image](https://github.com/user-attachments/assets/0455cefd-8c7c-4e13-8013-5f7816455877)
+
+### Function 2: Replace a value in the array with another specific value.
+
+After you select this function in the main menu, this prompt will pop up:
+
+![image](https://github.com/user-attachments/assets/9d5d8c44-e6cc-435e-bd4f-e1eff1898cbe)
+
+If you enter an index that is in the array, the program will then ask you to enter the value that you would like to use to replace the existing value at the index provided:
+
+![image](https://github.com/user-attachments/assets/51718ae0-03b2-4f1f-bf26-e3398d599960)
+
+
