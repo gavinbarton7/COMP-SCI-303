@@ -69,5 +69,38 @@ After you select this function in the main menu, this prompt will pop up:
 
 ![image](https://github.com/user-attachments/assets/e8a3f048-aac4-4280-b6e1-a4d2f81a4cf2)
 
+You must then enter an integer value into the prompt. After doing so, you will be returned to the main menu:
+
+![image](https://github.com/user-attachments/assets/ab13a855-e827-455b-a4b7-ac487f10abd7)
+
+However, before you select this function from the main menu, it is important to check the line in the main menu that tells you how many integers are currently in the array. As stated in the main menu, the array can only contain a maximum of 110 integers. If you select this function when there are already 110 integers in the array, you will get an error message shown in the image below and be returned to the main menu. The only way to modify the array in this scenario is to use function 2 to replace a value or function 4 to remove a value and then use this function to add a value to the end afterward. See the instructions for Function 2 above or Function 4 below for further details.
+
+![image](https://github.com/user-attachments/assets/53a2d450-6a01-4d86-bf37-37f0409f0849)
+
+### Function 4: Remove a value from the array.
+
+After you select this function in the main menu, this prompt will pop up:
+
+![image](https://github.com/user-attachments/assets/d2def779-3f99-40ba-90bc-5ced2d8c7f41)
+
+You must then enter the index of the element you would like to remove. If you enter a valid index, you will be returned to the main menu.
+
+![image](https://github.com/user-attachments/assets/067c8fdb-93a4-475c-b4ea-dfb1584f52b2)
+
+If you do not enter a valid index, you receive the error message shown in the image below:
+
+![image](https://github.com/user-attachments/assets/c249e1a7-b862-4aaf-9395-3abde8603be0)
+
+### Function 5: Display Array elements
+
+After you select this function in the main menu, every element of the array will be displayed, with the index in the column on the left, and the value in the column on the right.
+
+Note: You might have to scroll up to see the values at the beginning of your array, depending on the size of your window and how many elements there are in the array.
+
+Example output:
+
+
+
+
 
 
