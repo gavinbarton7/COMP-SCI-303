@@ -31,9 +31,10 @@ You will continue to receive the same prompt infinitely until you enter a value 
 
 ### Function 1: Check to see if the array contains a specific value
 
-![image](https://github.com/user-attachments/assets/e5e60019-a8a3-428c-932c-ec4c7d29a839)
+After you select the function in the main menu, this will prompt will pop up:
 
+![image](https://github.com/user-attachments/assets/2846acbd-276b-4e72-b252-9e61246650b8)
 
+You must then enter an integer value into the prompt, if the integer you enter is in the array, you will get an output telling you which index it is at, such as this:
 
-
-
+![image](https://github.com/user-attachments/assets/c98f6f8a-8c83-428b-8365-0e5a0748598d)
