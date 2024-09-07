@@ -17,15 +17,15 @@ The three lines between the "Enter a choice 1-6: one" and "Press Enter to Contin
 
 When you first open the program, it should look like this:
 
-![image](https://github.com/user-attachments/assets/c3d4174e-2cc9-4968-bca6-b6b2e0260524)
+![image](https://github.com/user-attachments/assets/d1ad0c3c-a194-453f-bf68-65a4f9cdb4b3)
 
 To continue, you must enter a value between 1 and 5 based on which of the 5 functions you would like to use or enter 6 to exit the program. If you enter a value outside of the range of 1-6, this will happen:
 
-![image](https://github.com/user-attachments/assets/201705f3-5cfe-4f8c-a139-cc4847a7c543)
+![image](https://github.com/user-attachments/assets/8b774781-fdf7-4e8a-9eda-2a25db22dbf5)
 
 You must then enter a value between 1 and 6 into the next prompt, otherwise, this will occur:
 
-![image](https://github.com/user-attachments/assets/74eeab9c-75db-49b0-9c08-b92d0fcfee3b)
+![image](https://github.com/user-attachments/assets/a82f4c2f-f888-4d4f-beef-3c93cdb6b27a)
 
 You will continue to receive the same prompt infinitely until you enter a value that is between 1 and 6.
 
