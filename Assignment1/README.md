@@ -17,7 +17,7 @@ The three lines between the "Enter a choice 1-6: one" and "Press Enter to Contin
 
 When you first open the program, it should look like this:
 
-![image](https://github.com/user-attachments/assets/49e90ea2-41bb-4438-bf0d-4178cd37bbe0)
+![image](https://github.com/user-attachments/assets/c3d4174e-2cc9-4968-bca6-b6b2e0260524)
 
 To continue, you must enter a value between 1 and 5 based on which of the 5 functions you would like to use or enter 6 to exit the program. If you enter a value outside of the range of 1-6, this will happen:
 
