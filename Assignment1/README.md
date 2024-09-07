@@ -11,6 +11,8 @@ Warning: Whenever this program asks you for input, only input integer values. If
 
 The three lines between the "Enter a choice 1-6: one" and "Press Enter to Continue" are the error messages. Although this screenshot depicts the error message being displayed after the user enters their choice in the main menu, you will get the same exact three-line error message any time you enter a letter, word, or non-numerical value when asked for input in this program.
 
+Additionally, whenever you see the line "Press Enter to Continue", you must press the enter key to continue on in the program.
+
 ## Instructions for running the code: 
 
 ### Main menu
@@ -52,5 +54,9 @@ After you select this function in the main menu, this prompt will pop up:
 If you enter an index that is in the array, the program will then ask you to enter the value that you would like to use to replace the existing value at the index provided:
 
 ![image](https://github.com/user-attachments/assets/51718ae0-03b2-4f1f-bf26-e3398d599960)
+
+After you enter the replacement value, the program will output a message telling you what the old value and the new values at the index you chose to modify:
+
+![image](https://github.com/user-attachments/assets/682b5dd1-c46f-473e-bbcd-30ac237a31f0)
 
 
