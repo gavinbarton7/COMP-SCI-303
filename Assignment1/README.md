@@ -103,7 +103,7 @@ Example output:
 
 ![image](https://github.com/user-attachments/assets/db17c72b-6cd3-41b5-a241-36080520eb5e)
 
-![image](https://github.com/user-attachments/assets/7e56d301-9da1-453b-a793-687f9124e318)
+![image](https://github.com/user-attachments/assets/c7f37cd3-e947-472b-808b-1916e6923920)
 
 ### Exiting the program
 
