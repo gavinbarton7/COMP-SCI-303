@@ -51,12 +51,18 @@ After you select this function in the main menu, this prompt will pop up:
 
 ![image](https://github.com/user-attachments/assets/9d5d8c44-e6cc-435e-bd4f-e1eff1898cbe)
 
-If you enter an index that is in the array, the program will then ask you to enter the value that you would like to use to replace the existing value at the index provided:
+If you enter a valid index, the program will then ask you to enter the value that you would like to use to replace the existing value at the index provided:
 
 ![image](https://github.com/user-attachments/assets/51718ae0-03b2-4f1f-bf26-e3398d599960)
 
 After you enter the replacement value, the program will output a message telling you what the old value and the new values at the index you chose to modify:
 
 ![image](https://github.com/user-attachments/assets/682b5dd1-c46f-473e-bbcd-30ac237a31f0)
+
+However, if you do not enter a valid index, the program will output an error message telling you that the index you entered is out of range and will send you back to the main menu:
+
+![image](https://github.com/user-attachments/assets/ab8fbac0-9851-419b-804e-f8745c1c6870)
+
+### Function 3: Add a value to the end of the array.
 
 
