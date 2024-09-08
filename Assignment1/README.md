@@ -1,6 +1,6 @@
 # Array modifier program
 
-This program reads 100 integer values from the file "A1input.txt" into an array, and allows you to modify the array by adding, removing, or replacing values in it. It also allows you to find out whether a specific integer value is in the array by searching through the array and providing you with the index where the integer is located.
+This program reads 100 integer values from the file "A1input.txt" into an array, and allows you to modify the array by adding, removing, or replacing values in it. It also allows you to find out whether a specific integer value is in the array by searching through the array and providing you with the index where the integer is located. Make sure the "A1input.txt" is in the same folder as your .exe or .dmg file after you compile and run the code, otherwise, the data will not read into the program.
 
 ## Read this section before going to the instructions for running the code
 
@@ -11,7 +11,7 @@ Warning: Whenever this program asks you for input, only input integer values. If
 
 The three lines between the "Enter a choice 1-6: one" and "Press Enter to Continue" are the error messages. Although this screenshot depicts the error message being displayed after the user enters their choice in the main menu, you will get the same exact three-line error message any time you enter a letter, word, or non-numerical value when asked for input in this program.
 
-Additionally, whenever you see the line "Press Enter to Continue", you must press the enter key to continue on in the program.
+Additionally, whenever you see the line "Press Enter to Continue", you must press the enter key to continue in the program.
 
 ## Instructions for running the code: 
 
