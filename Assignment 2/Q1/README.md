@@ -16,6 +16,7 @@ For the purpose of these instructions, I will be using integers for my Singly Li
 
 After you select the data type you would like to use, the program will output this:
 ![image](https://github.com/user-attachments/assets/3f480e44-0619-4841-b749-0a36aa68928a)
+NOTE: If you enter a value outside th range f 1 and 12, you will be asked to enter a new value until the value you enter is between 1 and 12.
 
 ### 1. Add item to the front of the linked list
 When you select this function, this is what it will display:
@@ -91,6 +92,13 @@ When you select this function, this is what it will display:
 
 When you enter the value that you want to look for, this is what will display
 ![image](https://github.com/user-attachments/assets/1b4ce621-1315-4f3f-802b-55bdf96813bb)
+NOTE: As the prompt states, if the program outputted a value equivalent to the size of the Linked List, then the value is not in the Linked List. You can use the "Display" function below to see the size of your linked list.
 
+### 11. Display the values in the linked list
+When you select this function, it will display the linked list in the form of "element" ==> for each element, for example:
+![image](https://github.com/user-attachments/assets/4ceee93f-0476-4e1b-a473-f56cb73aed54)
+
+### Exiting the program
+Enter the number 12 in the main menu to exit the program
 
 
