@@ -16,7 +16,7 @@ For the purpose of these instructions, I will be using integers for my Singly Li
 
 After you select the data type you would like to use, the program will output this:
 ![image](https://github.com/user-attachments/assets/3f480e44-0619-4841-b749-0a36aa68928a)
-NOTE: If you enter a value outside th range f 1 and 12, you will be asked to enter a new value until the value you enter is between 1 and 12.
+NOTE: If you enter a value outside the range of 1 and 12, you will be asked to enter a new value until the value you enter is between 1 and 12.
 
 ### 1. Add item to the front of the linked list
 When you select this function, this is what it will display:
