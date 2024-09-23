@@ -7,4 +7,6 @@ NOTE: Any time the program outputs "Press Enter to Continue", you must press the
 
 ## Functions
 
-## 
+When you first open the program, this will display:
+![image](https://github.com/user-attachments/assets/63cacd88-c268-421b-b3fe-a1b24075f9dd)
+
