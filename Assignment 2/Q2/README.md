@@ -30,3 +30,8 @@ Enter an integer value into the prompt, and then you will be returned to the mai
 When you select this function, you will be immediately returned to the main menu since it does not require any input.
 
 ### 4. Find the value of the element at the top of the stack
+
+When you select this function, it will display this message, but the value at the end will be whichever value is at the top of the stack
+![image](https://github.com/user-attachments/assets/7bcd57bb-aa3b-49ff-8716-9c8f83d30c7f)
+
+You will be returned to the main menu after pressing enter
