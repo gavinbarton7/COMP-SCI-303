@@ -35,3 +35,19 @@ When you select this function, it will display this message, but the value at th
 ![image](https://github.com/user-attachments/assets/7bcd57bb-aa3b-49ff-8716-9c8f83d30c7f)
 
 You will be returned to the main menu after pressing enter
+
+### 5. Find the average of the values of the stack's elements
+
+When you select this function, it will display this message, but the value at the end will be whichever value is the average of the stack's elements
+![image](https://github.com/user-attachments/assets/bcb0c1bd-f504-4483-9974-8b3f4e7bbf19)
+
+You will be returned to the main menu after pressing enter
+
+### 6. Display the stack's elements
+
+When you select this function, it will display the elements of the stack from bottom to top. Here is an example in the screenshot below:
+![image](https://github.com/user-attachments/assets/eceb18cd-5e4d-41cc-a579-fa9c377d1660)
+
+### Exiting the program
+
+To exit the program, press 7 in the main menu
