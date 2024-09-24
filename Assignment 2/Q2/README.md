@@ -48,6 +48,8 @@ You will be returned to the main menu after pressing enter
 When you select this function, it will display the elements of the stack from bottom to top. Here is an example in the screenshot below:
 ![image](https://github.com/user-attachments/assets/eceb18cd-5e4d-41cc-a579-fa9c377d1660)
 
+However, if you select this function when the stack is empty, the program will output a message that says "ERROR: The stack is empty, so there are no elements to display." and then return you to the main menu
+
 ### Exiting the program
 
 To exit the program, press 7 in the main menu
