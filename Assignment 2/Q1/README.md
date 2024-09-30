@@ -98,6 +98,8 @@ NOTE: As the prompt states, if the program outputted a value equivalent to the s
 When you select this function, it will display the linked list in the form of "element" ==> for each element, for example:
 ![image](https://github.com/user-attachments/assets/4ceee93f-0476-4e1b-a473-f56cb73aed54)
 
+If the linked list is empty, the program will output a message telling you that it cannot be displayed.
+
 ### Exiting the program
 Enter the number 12 in the main menu to exit the program
 
