@@ -126,7 +126,7 @@ class Queue
             // If the queue is not empty, executes the following code
             if (empty() == false) 
             {
-                //Creates variable "frontValue" that is used to store the value that is currently at the front of the Queue
+                // Creates variable "frontValue" that is used to store the value that is currently at the front of the Queue
                 Item_Type frontValue = front();                
 
                 // Calls the pop function to remove the value at the fron of the queue
