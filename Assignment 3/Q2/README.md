@@ -1,4 +1,4 @@
-### Recursive Linear Search Program Instructions
+# Recursive Linear Search Program for Vectors to find the last instance of a value Program
 
 When you first open the program, the output will look like this:
 
