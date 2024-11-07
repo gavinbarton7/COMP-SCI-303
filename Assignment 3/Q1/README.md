@@ -1,4 +1,4 @@
-### Running the program
+# Running the program
 
 When you open the program this will be the output:
 
