@@ -1,4 +1,4 @@
-# Running the program
+# Queue Program with move to rear function
 
 When you open the program this will be the output:
 
