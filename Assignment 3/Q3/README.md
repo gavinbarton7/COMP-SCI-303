@@ -12,4 +12,4 @@ Enter 12 to use this function, and then enter 11 to view the sorted list. Your o
 
 ## Exiting the program
 
-Enter 13 while you are in the program menu to exit the program
+Enter 13 while you are in the program menu to exit the program.
